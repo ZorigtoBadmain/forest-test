@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3574908F25295F1A00BFE016 /* SliderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3574908E25295F1A00BFE016 /* SliderViewController.swift */; };
+		357490942529661400BFE016 /* BludaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357490922529661400BFE016 /* BludaTableViewCell.swift */; };
+		357490952529661400BFE016 /* BludaTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 357490932529661400BFE016 /* BludaTableViewCell.xib */; };
+		357490982529AD4900BFE016 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357490972529AD4900BFE016 /* SecondViewController.swift */; };
 		35AEECB02527003600A3CDAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AEECAF2527003600A3CDAA /* AppDelegate.swift */; };
 		35AEECB22527003600A3CDAA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AEECB12527003600A3CDAA /* SceneDelegate.swift */; };
-		35AEECB42527003600A3CDAA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AEECB32527003600A3CDAA /* ViewController.swift */; };
 		35AEECB72527003600A3CDAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35AEECB52527003600A3CDAA /* Main.storyboard */; };
 		35AEECB92527003A00A3CDAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35AEECB82527003A00A3CDAA /* Assets.xcassets */; };
 		35AEECBC2527003A00A3CDAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35AEECBA2527003A00A3CDAA /* LaunchScreen.storyboard */; };
+		35DD9E4325273A9900EEEEAB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DD9E4225273A9900EEEEAB /* MenuViewController.swift */; };
+		35DD9E4825273AF800EEEEAB /* SliderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DD9E4625273AF800EEEEAB /* SliderCollectionViewCell.swift */; };
+		35DD9E4925273AF800EEEEAB /* SliderCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35DD9E4725273AF800EEEEAB /* SliderCollectionViewCell.xib */; };
+		35DD9E4D25273B5D00EEEEAB /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DD9E4C25273B5D00EEEEAB /* Module.swift */; };
+		35DD9E5825275F0500EEEEAB /* GroupCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DD9E5625275F0500EEEEAB /* GroupCollectionViewCell.swift */; };
+		35DD9E5925275F0500EEEEAB /* GroupCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35DD9E5725275F0500EEEEAB /* GroupCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3574908E25295F1A00BFE016 /* SliderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderViewController.swift; sourceTree = "<group>"; };
+		357490922529661400BFE016 /* BludaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BludaTableViewCell.swift; sourceTree = "<group>"; };
+		357490932529661400BFE016 /* BludaTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BludaTableViewCell.xib; sourceTree = "<group>"; };
+		357490972529AD4900BFE016 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		35AEECAC2527003600A3CDAA /* Forest-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Forest-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35AEECAF2527003600A3CDAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35AEECB12527003600A3CDAA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		35AEECB32527003600A3CDAA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		35AEECB62527003600A3CDAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		35AEECB82527003A00A3CDAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35AEECBB2527003A00A3CDAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35AEECBD2527003A00A3CDAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35DD9E4225273A9900EEEEAB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		35DD9E4625273AF800EEEEAB /* SliderCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCollectionViewCell.swift; sourceTree = "<group>"; };
+		35DD9E4725273AF800EEEEAB /* SliderCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SliderCollectionViewCell.xib; sourceTree = "<group>"; };
+		35DD9E4C25273B5D00EEEEAB /* Module.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
+		35DD9E5625275F0500EEEEAB /* GroupCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupCollectionViewCell.swift; sourceTree = "<group>"; };
+		35DD9E5725275F0500EEEEAB /* GroupCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GroupCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +55,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		35749091252965E200BFE016 /* TableCell */ = {
+			isa = PBXGroup;
+			children = (
+				357490922529661400BFE016 /* BludaTableViewCell.swift */,
+				357490932529661400BFE016 /* BludaTableViewCell.xib */,
+			);
+			path = TableCell;
+			sourceTree = "<group>";
+		};
 		35AEECA32527003600A3CDAA = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +83,47 @@
 		35AEECAE2527003600A3CDAA /* Forest-test */ = {
 			isa = PBXGroup;
 			children = (
+				35749091252965E200BFE016 /* TableCell */,
+				35DD9E4525273AC100EEEEAB /* SliderCell */,
+				35DD9E5425275ED900EEEEAB /* GroupCell */,
+				35DD9E4B25273B3B00EEEEAB /* Modul */,
 				35AEECAF2527003600A3CDAA /* AppDelegate.swift */,
 				35AEECB12527003600A3CDAA /* SceneDelegate.swift */,
-				35AEECB32527003600A3CDAA /* ViewController.swift */,
 				35AEECB52527003600A3CDAA /* Main.storyboard */,
+				357490972529AD4900BFE016 /* SecondViewController.swift */,
+				3574908E25295F1A00BFE016 /* SliderViewController.swift */,
+				35DD9E4225273A9900EEEEAB /* MenuViewController.swift */,
 				35AEECB82527003A00A3CDAA /* Assets.xcassets */,
 				35AEECBA2527003A00A3CDAA /* LaunchScreen.storyboard */,
 				35AEECBD2527003A00A3CDAA /* Info.plist */,
 			);
 			path = "Forest-test";
+			sourceTree = "<group>";
+		};
+		35DD9E4525273AC100EEEEAB /* SliderCell */ = {
+			isa = PBXGroup;
+			children = (
+				35DD9E4625273AF800EEEEAB /* SliderCollectionViewCell.swift */,
+				35DD9E4725273AF800EEEEAB /* SliderCollectionViewCell.xib */,
+			);
+			path = SliderCell;
+			sourceTree = "<group>";
+		};
+		35DD9E4B25273B3B00EEEEAB /* Modul */ = {
+			isa = PBXGroup;
+			children = (
+				35DD9E4C25273B5D00EEEEAB /* Module.swift */,
+			);
+			path = Modul;
+			sourceTree = "<group>";
+		};
+		35DD9E5425275ED900EEEEAB /* GroupCell */ = {
+			isa = PBXGroup;
+			children = (
+				35DD9E5625275F0500EEEEAB /* GroupCollectionViewCell.swift */,
+				35DD9E5725275F0500EEEEAB /* GroupCollectionViewCell.xib */,
+			);
+			path = GroupCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +184,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				35AEECBC2527003A00A3CDAA /* LaunchScreen.storyboard in Resources */,
+				35DD9E5925275F0500EEEEAB /* GroupCollectionViewCell.xib in Resources */,
+				357490952529661400BFE016 /* BludaTableViewCell.xib in Resources */,
 				35AEECB92527003A00A3CDAA /* Assets.xcassets in Resources */,
 				35AEECB72527003600A3CDAA /* Main.storyboard in Resources */,
+				35DD9E4925273AF800EEEEAB /* SliderCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +199,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35AEECB42527003600A3CDAA /* ViewController.swift in Sources */,
+				35DD9E5825275F0500EEEEAB /* GroupCollectionViewCell.swift in Sources */,
+				3574908F25295F1A00BFE016 /* SliderViewController.swift in Sources */,
 				35AEECB02527003600A3CDAA /* AppDelegate.swift in Sources */,
+				357490982529AD4900BFE016 /* SecondViewController.swift in Sources */,
+				35DD9E4325273A9900EEEEAB /* MenuViewController.swift in Sources */,
+				35DD9E4D25273B5D00EEEEAB /* Module.swift in Sources */,
 				35AEECB22527003600A3CDAA /* SceneDelegate.swift in Sources */,
+				357490942529661400BFE016 /* BludaTableViewCell.swift in Sources */,
+				35DD9E4825273AF800EEEEAB /* SliderCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
